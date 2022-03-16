@@ -1,7 +1,7 @@
 # Marianne Leano
 A recent graduate with a Master's in Data Science. Currently looking for a new career as a data science professional to work with a diverse team and support innovation for data-driven business decisions and goals. Motivated to utilize my analytical, statistical, and programming skills to collect, analyze and interpret large datasets.
 
-## Project 1: Predicting Forest Cover Type
+## [Project 1: Predicting Forest Cover Type](https://github.com/marileano/Forest-Cover-Type)
 * Given raw unscaled data with both numerical and categorical variables.
 * Performed exploratory data analysis in order to visualize the characteristics of our given variables.
 * Constructed various models to train the data, utilizing Optuna hyperparameter tuning to get parameters that maximize the model accuracies.
