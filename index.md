@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Marianne Leano
+A recent graduate with a Master's in Data Science. Currently looking for a new career as a data science professional to work with a diverse team and support innovation for data-driven business decisions and goals. Motivated to utilize my analytical, statistical, and programming skills to collect, analyze and interpret large datasets.
 
-You can use the [editor on GitHub](https://github.com/marileano/marianne_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Project 1: Predicting Forest Cover Type
+* Given raw unscaled data with both numerical and categorical variables.
+* Performed exploratory data analysis in order to visualize the characteristics of our given variables.
+* Constructed various models to train the data, utilizing Optuna hyperparameter tuning to get parameters that maximize the model accuracies.
+* Used feature engineering techniques, we built new variables to help improve the accuracy of the models.
+* Using the strategies above, we built the final model and generated the forest cover type predictions for the test dataset.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project 2: Climate Change: A Tableau Visualization
+* Created an interactive data visualization to raise people's awareness on the issue of climate change.
+* Interacted with data to get insights faster and make critical decisions for the purpose of the project.
+* Created visualizations with large amounts of data for the following supporting points:
+  * Economoic Development
+  * Human Influence Factors
+  * Energy Consumption
 
-### Markdown
+## Project 3: Predictive Modeling with R
+* Performed data feature selection, feature eliminateion, and feature importance using techniwues such as Recursive Feature Elimination (RFE), Principal Component Analysis (PCA), and Random Forest.
+* Developed models using supervised, unsupervised, and semi-supervised learning techniques such as decision trees, regression trees, neural networks, and support vector machines.
+* Tuned model parameters, estimated prediction errors, and model validation.
+* Compared and ensembled multiple models in pipeline and automatically selected the best model.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project 4: Determining Trade Union Status
+* Utitlizing a custom TRAIN dataset, a model was built to predict whether a data scientist will remain a member.
+* Performed data cleaning and pre-processing of data.
+* Performed PCA and Correlation to understand the relationship between the data.
+* Performed the following models: Logistic Regression, SVM, Decision Tree and Random Forest.
+* Used Recursive Feature Elimination (RFE) for feature selection.
+* Compared models to find the best model for testing accuracy and training convergence.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marileano/marianne_portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Project 5: Lahman Baseball Database
+* Utilized pyspark ML and created a SparkSession object using Databricks.
+* Explored and analyzed different datasets to build better insights on the Lahman Baseball database.
